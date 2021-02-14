@@ -425,6 +425,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+ssl
 # Windows shortcuts
 *.lnk
 
